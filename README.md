@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedhareshwarareddy&label=Profile%20views&color=0e75b6&style=flat" alt="kedhareshwarareddy" /> </p>
 
-- 🔭 I’m currently working on **BetterMail**
+- 🔭 I’m currently working on **Karnataka Urban Pulse**
 
 - 🌱 I’m currently learning **Excel course and Basic Front End**
 
